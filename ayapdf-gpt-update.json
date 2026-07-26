@@ -26,6 +26,15 @@
     "website": "https://ayasoft.es",
 
     "product": "https://ayapdf.ayasoft.es",
+	
+	
+	"product": "AyaPDF for ChatGPT",
+	
+	  "downloadUrl": "https://chromewebstore.google.com/",
+
+    "documentationUrl": "https://ayasoft.es/documentation.html",
+
+    "websiteUrl": "https://ayasoft.es"
 
 
     ]
