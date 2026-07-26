@@ -1,0 +1,45 @@
+
+{
+    "enabled": true,
+
+    "forceUpdate": false,
+
+    "latestVersion": "1.1.1",
+
+    "releaseDate": "2026-07-25",
+
+    "title": "AyaPDF 1.1.1",
+
+    "important": false,
+	
+	"releaseNotes": [
+    "Improved PDF export performance.",
+    "New update management system.",
+    "Better compatibility with ChatGPT.",
+    "Several bug fixes and UI improvements."
+  ]
+  
+   
+  
+    "minimumVersion": "1.0.0",
+
+    "website": "https://ayasoft.es",
+
+    "product": "https://ayapdf.ayasoft.es",
+	
+	
+	"product": "AyaPDF for ChatGPT",
+	
+	  "downloadUrl": "https://chromewebstore.google.com/",
+
+    "documentationUrl": "https://ayasoft.es/documentation.html",
+
+    "websiteUrl": "https://ayasoft.es"
+
+
+    ]
+  
+  
+
+ 
+}
