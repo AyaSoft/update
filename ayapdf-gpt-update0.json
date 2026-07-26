@@ -1,25 +1,24 @@
 {
-    "enabled": true,
-
-    "minimumVersion": "1.0.0",
-
-    "website": "https://ayasoft.es",
-
-    "product": "https://ayapdf.ayasoft.es",
+   "schemaVersion": 1,  
+  "product": "AyaPDF for ChatGPT",
 
     "latestVersion": "1.0.2",
 
-    "releaseDate": "2026-07-24",
+    "releaseDate": "2026-08-23",
 
-    "title": "AyaPDF 1.0.2",
-
-    "important": false,
+    "title": "AyaPDF 1.0.1",
 
     "releaseNotes": [
 
-        "....",
+        "Initial public release."
 
-        "...."
+    ],
 
-    ]
+    "important": false,
+
+    "downloadUrl": "https://chromewebstore.google.com/",
+
+    "documentationUrl": "https://ayasoft.es/documentation.html",
+
+    "websiteUrl": "https://ayasoft.es"
 }
