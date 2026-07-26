@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "minimumVersion": "1.0.0",
 
 
@@ -8,7 +8,7 @@
   "latestVersion": "1.0.0",
   "releaseDate": "2026-07-25",
 
-  "title": "AyaPDF 1.1 is now available",
+  "title": "AyaPDF 1.0.0 is now available",
 
   "important": false,
 
