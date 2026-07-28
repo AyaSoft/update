@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "title": "AyaPDF is temporarily unavailable",
-  "message": "Please update AyaPDF to continue using the extension."
+  "message": "Please update AyaPDF to continue using the extension."و
   
   
   "minimumVersion": "1.0.1",
@@ -14,7 +14,7 @@
 
   "title": "AyaPDF 1.0.0 is now available",
 
-  "important": false,
+  "important": true,
 
   "releaseNotes": [
     "Improved PDF export performance.",
