@@ -1,7 +1,7 @@
 {
   "enabled": false,
-  "title": "AyaPDF is temporarily unavailable",
-  "message": "Please update AyaPDF to continue using the extension.",
+  "disabledTitle": "AyaPDF is temporarily unavailable",
+  "disabledMessage": "Please update AyaPDF to continue using the extension.",
   
   
   "minimumVersion": "1.0.0",
