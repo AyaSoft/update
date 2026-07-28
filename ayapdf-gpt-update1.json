@@ -1,18 +1,18 @@
 {
   "enabled": true,
   "title": "AyaPDF is temporarily unavailable",
-  "message": "Please update AyaPDF to continue using the extension."و
+  "message": "Please update AyaPDF to continue using the extension.",
   
   
-  "minimumVersion": "1.0.1",
+  "minimumVersion": "1.0.0",
 
 
   "store": "https://google.com",
 
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "releaseDate": "2026-07-25",
 
-  "title": "AyaPDF 1.0.0 is now available",
+  "title": "AyaPDF 1.0.1 is now available",
 
   "important": true,
 
