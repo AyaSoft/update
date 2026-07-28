@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "disabledTitle": "AyaPDF is temporarily unavailable",
   "disabledMessage": "Please update AyaPDF to continue using the extension.",
   
@@ -9,7 +9,7 @@
 
   "store1": "https://ayasoft.es",
 
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.0",
   "releaseDate": "2026-07-25",
 
   "title": "AyaPDF 1.0.1 is now available",
