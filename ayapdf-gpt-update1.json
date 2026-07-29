@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "disabledTitle": "AyaPDF is temporarily unavailable",
   "disabledMessage": "Please update AyaPDF to continue using the extension.",
   
