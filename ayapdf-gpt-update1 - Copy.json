@@ -2,7 +2,8 @@
   "enabled": true,
   "minimumVersion": "1.0.0",
 
-
+  "website": "https://ayasoft.es",
+  "product": "https://ayapdf.ayasoft.es",
   "store": "https://google.com",
 
   "latestVersion": "1.1.0",
