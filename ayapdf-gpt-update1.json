@@ -9,7 +9,7 @@
 
   "store": "https://ayapdf.ayasoft.es",
 
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "releaseDate": "2026-07-25",
 
   "title": "AyaPDF 1.0.0 is now available",
@@ -17,9 +17,7 @@
   "important": true,
 
   "releaseNotes": [
-    "Improved PDF export performance.",
-    "New update management system.",
-    "Better compatibility with ChatGPT.",
+      "Improved PDF export performance.",
     "Several bug fixes and UI improvements."
   ]
 }
