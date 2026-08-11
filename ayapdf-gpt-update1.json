@@ -1,4 +1,7 @@
 {
+	 "current":"1.0.0",
+  "Browser": "chrome",
+	
   "enabled": true,
   "disabledTitle": "AyaPDF is temporarily unavailable",
   "disabledMessage": "Please update AyaPDF to continue using the extension.",

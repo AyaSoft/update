@@ -1,0 +1,16 @@
+chrome:
+v1.0.0  use update1
+v1.0.1 	use update2
+
+
+
+
+
+
+
+
+Edge:
+v1.0.0   use update1
+c1.0.1   use updateEdge2
+
+ 
