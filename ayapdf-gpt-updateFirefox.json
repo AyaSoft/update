@@ -1,0 +1,28 @@
+{
+  "current":"1.0.1",
+  "Browser": "Edge",
+  
+  "enabled": true,
+  "disabledTitle": "AyaPDF is temporarily unavailable",
+  "disabledMessage": "Please update AyaPDF to continue using the extension.",
+  
+  
+  "minimumVersion": "1.0.0",
+
+
+  "store": "https://ayapdf.ayasoft.es",
+
+  "latestVersion": "1.0.2",
+  "releaseDate": "2026-07-25",
+
+  "title": "AyaPDF 1.0.1 is now available",
+
+  "important": true,
+
+  "releaseNotes": [
+    "Improved PDF export performance.",
+    "New update management system.",
+    "Better compatibility with ChatGPT.",
+    "Several bug fixes and UI improvements."
+  ]
+}
