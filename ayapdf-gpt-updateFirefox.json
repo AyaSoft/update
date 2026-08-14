@@ -2,7 +2,7 @@
   "current":"1.0.1",
   "Browser": "firefox",
   
-  "enabled": false,
+  "enabled": true,
   "disabledTitle": "AyaPDF is temporarily unavailable",
   "disabledMessage": "Please update AyaPDF to continue using the extension.",
   
