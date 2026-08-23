@@ -10,9 +10,7 @@
     "message": "AyaPDF is temporarily unavailable.",
     "reason": "Please try again later.",
 	
-		"releaseNotes": [
 
-  ],
 
 
   "product": "https://ayapdf.ayasoft.es",
@@ -25,5 +23,8 @@
 
   "donate": "https://ayapdf.ayasoft.es/donate",
 
+		"releaseNotes": [
+
+  ]
 
 }
