@@ -10,7 +10,7 @@
     "state": "update",
     "title": "AyaPDF 1.1.0 is available",
     "message": "A new version of AyaPDF is available.",
-    "reason": "We recommend updating to enjoy the latest features."
+  "reason": "This update includes improvements, bug fixes and better compatibility with ChatGPT.",
   },
 
   "required": {
