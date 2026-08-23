@@ -5,11 +5,16 @@
   "latestVersion": "1.0.2",
   "releaseDate": "2026-08-14",
 
-    "state": "disabled",
-    "title": "AyaPDF is unavailable",
-    "message": "Printing has been disabled.",
-    "reason": "Please install a supported version.",
+ "state": "required",
+    "title": "AyaPDF Update Required",
+    "message": "AyaPDF must be updated before printing.",
+    "reason": "This version is no longer compatible with ChatGPT.",
 	
+		"releaseNotes": [
+    "Improved PDF export.",
+    "Improved update management.",
+    "Improved ChatGPT compatibility."
+  ],
 
   "product": "https://ayapdf.ayasoft.es",
 
@@ -21,6 +26,6 @@
 
   "donate": "https://ayapdf.ayasoft.es/donate",
 
-		"releaseNotes": []
+		
 
 }
