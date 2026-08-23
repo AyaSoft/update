@@ -5,10 +5,10 @@
   "latestVersion": "1.0.2",
   "releaseDate": "2026-08-14",
 
- "state": "required",
-    "title": "AyaPDF Update Required",
-    "message": "AyaPDF must be updated before printing.",
-    "reason": "This version is no longer compatible with ChatGPT."
+  "state": "required",
+  "title": "AyaPDF Update Required",
+  "message": "AyaPDF must be updated before printing.",
+  "reason": "This version is no longer compatible with ChatGPT."
 
 
   "product": "https://ayapdf.ayasoft.es",
