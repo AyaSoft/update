@@ -5,10 +5,14 @@
   "latestVersion": "1.0.2",
   "releaseDate": "2026-08-14",
 
-    "state": "disabled",
-    "title": "AyaPDF is unavailable",
-    "message": "Printing has been disabled.",
-    "reason": "Please install a supported version.",
+    "state": "maintenance",
+    "title": "AyaPDF is under maintenance",
+    "message": "AyaPDF is temporarily unavailable.",
+    "reason": "Please try again later.",
+	
+		"releaseNotes": [
+
+  ]
 
 
   "product": "https://ayapdf.ayasoft.es",
@@ -21,7 +25,5 @@
 
   "donate": "https://ayapdf.ayasoft.es/donate",
 
-  	"releaseNotes": [
 
-  ]
 }
