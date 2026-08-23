@@ -8,7 +8,7 @@
   "state": "required",
   "title": "AyaPDF Update Required",
   "message": "AyaPDF must be updated before printing.",
-  "reason": "This version is no longer compatible with ChatGPT."
+  "reason": "This version is no longer compatible with ChatGPT.",
 
 
   "product": "https://ayapdf.ayasoft.es",

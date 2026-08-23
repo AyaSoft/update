@@ -17,20 +17,20 @@
     "state": "required",
     "title": "AyaPDF Update Required",
     "message": "AyaPDF must be updated before printing.",
-    "reason": "This version is no longer compatible with ChatGPT."
+    "reason": "This version is no longer compatible with ChatGPT.",
   },
 
   "disabled": {
     "state": "disabled",
     "title": "AyaPDF is unavailable",
     "message": "Printing has been disabled.",
-    "reason": "Please install a supported version."
+    "reason": "Please install a supported version.",
   },
 
   "maintenance": {
     "state": "maintenance",
     "title": "AyaPDF is under maintenance",
     "message": "AyaPDF is temporarily unavailable.",
-    "reason": "Please try again later."
+    "reason": "Please try again later.",
   }
 }
