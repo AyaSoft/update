@@ -21,9 +21,5 @@
 
   "donate": "https://ayapdf.ayasoft.es/donate",
 
-  "releaseNotes": [
-    "Improved PDF export.",
-    "Improved update management.",
-    "Improved ChatGPT compatibility."
-  ]
+  
 }
