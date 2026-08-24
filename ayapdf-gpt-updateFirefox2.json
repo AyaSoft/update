@@ -10,7 +10,7 @@
     "message": "AyaPDF must be updated before printing.",
     "reason": "This version is no longer compatible with ChatGPT.",
 	
-		"releaseNotes": [
+	"releaseNotes": [
     "Improved PDF export.",
     "Improved update management.",
     "Improved ChatGPT compatibility."
@@ -24,7 +24,7 @@
 
   "help": "https://ayapdf.ayasoft.es/help",
 
-  "donate": "https://ayapdf.ayasoft.es/donate",
+  "donate": "https://ayapdf.ayasoft.es/donate"
 
 		
 
