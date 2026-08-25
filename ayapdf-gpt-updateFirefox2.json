@@ -5,7 +5,7 @@
   "latestVersion": "1.0.2",
   "releaseDate": "2026-08-14",
 
-     "state": "required",
+     "state": "update",
     "title": "AyaPDF 1.1.0 is available",
     "message": "A new version of AyaPDF is available.",
   "reason": "This update includes improvements, bug fixes and better compatibility with ChatGPT.",
