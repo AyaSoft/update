@@ -17,13 +17,11 @@
     "Improved ChatGPT compatibility."
   ],
 
-  "product": "https://ayapdf.ayasoft.es",
-
-  "store": "https://addons.mozilla.org/firefox/addon/ayapdf",
+   "store": "https://addons.mozilla.org/firefox/addon/ayapdf",
 
   "website": "https://ayapdf.ayasoft.es",
 
-  "help": "https://ayapdf.ayasoft.es/help",
+  "help": "https://ayapdf.ayasoft.es",
 
   "donate": "https://ayapdf.ayasoft.es/donate"
 
