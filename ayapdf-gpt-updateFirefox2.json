@@ -5,7 +5,7 @@
   "latestVersion": "1.0.2",
   "releaseDate": "2026-08-14",
 
-     "state": "update",
+     "state": "required",
     "title": "AyaPDF 1.1.0 is available",
     "message": "A new version of AyaPDF is available.",
   "reason": "This update includes improvements, bug fixes and better compatibility with ChatGPT.",
@@ -17,7 +17,7 @@
     "Improved ChatGPT compatibility."
   ],
 
-   "store": "https://addons.mozilla.org/firefox/addon/ayapdf",
+   "store": "https://ayapdf.ayasoft.es",
 
   "website": "https://ayapdf.ayasoft.es",
 
