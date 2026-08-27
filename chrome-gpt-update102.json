@@ -1,17 +1,19 @@
 {
     "current": "1.0.1",
-  "browser": "firefox",
+  "browser": "chrome",
   
   "latestVersion": "1.0.3",
     "releaseDate": "2026-09-01",
 	
 
-    "state": "disabled",
-    "title": "AyaPDF is unavailable",
-    "message": "Printing has been disabled.",
-    "reason": "Please install a supported version.",
+    "state": "maintenance",
+    "title": "AyaPDF is under maintenance",
+    "message": "AyaPDF is temporarily unavailable.",
+    "reason": "Please try again later.",
 	
-		"releaseNotes": [],
+		"releaseNotes": [
+
+  ],
   
   "forceUpdate": false,
   "enabled": true,
