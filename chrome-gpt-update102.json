@@ -5,6 +5,7 @@
   "latestVersion": "1.0.3",
     "releaseDate": "2026-09-01",
 	
+	 "state": "disabled",
    "title": "AyaPDF is unavailable",
     "message": "Printing has been disabled.",
     "reason": "Please install a supported version.",
