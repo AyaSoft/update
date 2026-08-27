@@ -1,9 +1,10 @@
 {
-  "state": "disabled",
+  
   "latestVersion": "1.0.3",
-  "title": "New AyaPDF version available",
-  "message": "A new version of AyaPDF is available.",
-  "reason": "This version includes improvements and bug fixes.",
+   "state": "maintenance",
+    "title": "AyaPDF is under maintenance",
+    "message": "AyaPDF is temporarily unavailable.",
+    "reason": "Please try again later.",
   "releaseDate": "2026-09-01",
   "releaseNotes": [
     "Improved update system",
