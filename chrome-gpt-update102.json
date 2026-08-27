@@ -6,7 +6,6 @@
     "releaseDate": "2026-09-01",
 	
 
-    "disabled": {
     "state": "disabled",
     "title": "AyaPDF is unavailable",
     "message": "Printing has been disabled.",
