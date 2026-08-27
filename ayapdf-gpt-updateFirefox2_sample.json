@@ -17,7 +17,7 @@
     "Improved PDF export.",
     "Improved update management.",
     "Improved ChatGPT compatibility."
-  ]
+  ],
   
   },
 
@@ -31,7 +31,7 @@
     "Improved PDF export.",
     "Improved update management.",
     "Improved ChatGPT compatibility."
-  ]
+  ],
   },
 
   "disabled": {
@@ -40,9 +40,7 @@
     "message": "Printing has been disabled.",
     "reason": "Please install a supported version.",
 	
-		"releaseNotes": [
-
-  ]
+		"releaseNotes": []
   
   },
 
