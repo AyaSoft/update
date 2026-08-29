@@ -2,7 +2,7 @@
   "current":"1.0.1",
   "Browser": "chrome",
   
-  "enabled": true,
+  "enabled": false,
   "disabledTitle": "AyaPDF is temporarily unavailable",
   "disabledMessage": "Please update AyaPDF to continue using the extension.",
   
@@ -15,17 +15,16 @@
   
   "store": "https://chrome.google.com/webstore/detail/flghadjloplkhebdmbgklnajlokiogka",
 
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "releaseDate": "2026-07-25",
 
-  "title": "AyaPDF 1.0.1 is now available",
+  "title": "AyaPDF 1.0.2 is now available",
 
   "important": true,
 
   "releaseNotes": [
-    "Improved PDF export performance.",
-    "New update management system.",
-    "Better compatibility with ChatGPT.",
-    "Several bug fixes and UI improvements."
+    "Improved the update system.",
+  "Improved conversation switching and cache handling.",
+  "Fixed incorrect conversation content when printing after switching conversations."
   ]
 }
